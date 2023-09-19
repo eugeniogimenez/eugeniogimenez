@@ -1,5 +1,12 @@
 <h1 align="center">Hola 👋, soy Eugenio</h1>
-<h3 align="center">Me desempeño como FullStack Developer</h3>
+
+Soy desarrollador web full stack con una sólida base en tecnologías como **Java, Spring Boot, Node.js, TypeScript, bases de datos SQL y NoSQL, APIs y Docker**. Mi objetivo principal es crear soluciones web robustas y eficientes que brinden un alto valor a los usuarios.
+
+🛠️ Mi Enfoque: 
+Si bien me considero un desarrollador full stack, mi verdadera pasión y enfoque se encuentran en el backend. Disfruto de la lógica y la arquitectura de las aplicaciones, y me esfuerzo por crear sistemas escalables y seguros que funcionen de manera eficiente en el backend. Mi inclinación hacia esta área me permite abordar desafíos complejos y resolver problemas de manera efectiva.
+
+📚 Aprendizaje Continuo: 
+Estoy comprometido con el aprendizaje continuo y el crecimiento. Constantemente estoy ampliando mis habilidades y conocimientos a través de cursos en línea, proyectos personales y colaboraciones con otros desarrolladores.
 
 - 📫 Podes escribirme a: **eugeniolgimenez@gmail.com**
 
